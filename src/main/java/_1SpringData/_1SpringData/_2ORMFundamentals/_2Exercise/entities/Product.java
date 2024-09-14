@@ -1,8 +1,8 @@
-package _1SpringData._1SpringData._2ORMFundamentals._1Lab.entities;
+package _1SpringData._1SpringData._2ORMFundamentals._2Exercise.entities;
 
-import _1SpringData._1SpringData._2ORMFundamentals._1Lab.orm.anotations.Column;
-import _1SpringData._1SpringData._2ORMFundamentals._1Lab.orm.anotations.Entity;
-import _1SpringData._1SpringData._2ORMFundamentals._1Lab.orm.anotations.Id;
+import _1SpringData._1SpringData._2ORMFundamentals._2Exercise.orm.anotations.Column;
+import _1SpringData._1SpringData._2ORMFundamentals._2Exercise.orm.anotations.Entity;
+import _1SpringData._1SpringData._2ORMFundamentals._2Exercise.orm.anotations.Id;
 
 @Entity(name = "products")
 public class Product {

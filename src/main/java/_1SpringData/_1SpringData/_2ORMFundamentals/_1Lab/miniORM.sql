@@ -11,4 +11,4 @@ CREATE TABLE mini_orm.orders(
     id INT PRIMARY KEY AUTO_INCREMENT,
     number VARCHAR(55),
     date DATE
-)
+);
