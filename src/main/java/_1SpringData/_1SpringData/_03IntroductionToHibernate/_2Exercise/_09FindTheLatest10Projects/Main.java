@@ -1,4 +1,4 @@
-package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._9FindTheLatest10Projects;
+package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._09FindTheLatest10Projects;
 
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Project;
 import jakarta.persistence.EntityManager;

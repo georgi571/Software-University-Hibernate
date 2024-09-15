@@ -1,4 +1,4 @@
-package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._5EmployeesFromDepartment;
+package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._05EmployeesFromDepartment;
 
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Employee;
 import jakarta.persistence.EntityManager;

@@ -1,4 +1,4 @@
-package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._8GetEmployeesWithProject;
+package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._08GetEmployeesWithProject;
 
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Employee;
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Project;

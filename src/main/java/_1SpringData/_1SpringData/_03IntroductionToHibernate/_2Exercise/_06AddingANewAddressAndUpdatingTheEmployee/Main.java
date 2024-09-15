@@ -1,4 +1,4 @@
-package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._6AddingANewAddressAndUpdatingTheEmployee;
+package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._06AddingANewAddressAndUpdatingTheEmployee;
 
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Address;
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Employee;

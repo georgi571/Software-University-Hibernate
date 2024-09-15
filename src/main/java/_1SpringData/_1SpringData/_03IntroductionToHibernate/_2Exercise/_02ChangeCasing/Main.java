@@ -1,4 +1,4 @@
-package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._2ChangeCasing;
+package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._02ChangeCasing;
 
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Town;
 import jakarta.persistence.EntityManager;
