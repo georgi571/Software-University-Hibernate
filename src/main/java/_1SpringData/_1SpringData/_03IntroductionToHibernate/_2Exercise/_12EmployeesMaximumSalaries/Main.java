@@ -1,6 +1,5 @@
 package _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise._12EmployeesMaximumSalaries;
 
-import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Address;
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Department;
 import _1SpringData._1SpringData._03IntroductionToHibernate._2Exercise.entities.Employee;
 import jakarta.persistence.EntityManager;
